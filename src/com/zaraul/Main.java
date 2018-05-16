@@ -1,6 +1,6 @@
 package com.zaraul;
 
-import com.zaraul.thirty.days.of.code.DataTypes;
+import com.zaraul.thirty.days.of.code.ConditionalStatements;
 
 public class Main {
 
@@ -9,9 +9,10 @@ public class Main {
         // new HelloWorld().run();
 
         // Day2
-        new DataTypes().run();
+        //new DataTypes().run();
 
         // Day3
+        new ConditionalStatements().run();
 
 
         // Day4
